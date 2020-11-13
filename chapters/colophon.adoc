@@ -3,7 +3,7 @@
 (C) {revyear} {author}. Version {revnumber}. +
 (C) Unmarked photos https://pixabay.com/cs/images/search/vánoční/
 
-Published by {author}. First published at: https://www.bobek.cz/vanocni-symboly/. +
+Published by {author}. First published at: https://www.bobek.cz/vanocni-svatky-a-jejich-symboly/. +
 Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/[Attribution-NonCommercial-ShareAlike 4.0 International].
 
 image::by-nc-sa.png[cc-by-nc-sa, 100]
