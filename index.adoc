@@ -1,0 +1,46 @@
+:title: Vánoční svátky a jejich symboly
+:author: PhDr. Jaroslava Králová
+:email:  symbolika@bobek.cz
+:revnumber: 1.0
+:revdate: {docdate}
+:revyear: 2020
+:subject: Vánoční svátky a jejich symboly
+:keywords: symboly, vánoce
+:doctype: article
+:media: screen
+:toc: left
+:toclevels: 2
+:toc-title: Obsah
+:figure-caption: Obrázek
+:numbered:
+:idprefix:
+:idseparator: -
+:seclink:
+:secanchors:
+:title-separator: {sp}|
+:icons: font
+:lang: cs
+:language: javadocript
+:experimental:
+:pdf-fontsdir: ./styles/pdf/fonts
+:pdf-stylesdir: ./styles/pdf
+:pdf-style: infoq-screen
+// ifndef::ebook-format[:leveloffset: 1]
+:leveloffset: 1
+// = {title}
+
+[colophon#colophon%nonfacing]
+include::chapters/colophon.adoc[]
+
+// [preface]
+// include::chapters/annotation.adoc[]
+
+include::chapters/text.adoc[]
+
+include::chapters/zdroje.adoc[]
+
+
+//ifdef::backend-pdf,backend-docbook[]
+//[index]
+//== Index
+//endif::[]s
